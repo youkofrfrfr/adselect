@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://adselect.net/#website",
+  "name": "AdSelect",
+  "url": "https://adselect.net",
+  "inLanguage": "en",
+  "description": "AdSelect is a community and advertising platform. Members earn rewards for viewing partner advertisements, daily check-ins, story sharing and referrals. Rewards are paid in USDT (BEP20).",
+  "publisher": {
+    "@id": "https://adselect.net/#organization"
+  }
+}

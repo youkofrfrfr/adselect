@@ -1,0 +1,17 @@
+{
+  "enabled": false,
+  "paidActive": false,
+  "freeEndsAt": "2026-10-06T12:00:00.000Z",
+  "price": 100,
+  "listPrice": 100,
+  "offerActive": false,
+  "offerEndsAt": "2026-10-12T12:00:00.000Z",
+  "withdrawal": {
+    "enabled": false,
+    "open": false,
+    "opensAt": "2026-11-12T13:00:00.000Z"
+  },
+  "currency": "$",
+  "serverNow": "2026-11-07T22:52:53.029Z",
+  "signupBonus": 10
+}

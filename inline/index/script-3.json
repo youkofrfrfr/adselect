@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AdSelect?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AdSelect is a community and advertising platform at adselect.net. Members earn rewards for viewing partner advertisements, checking in daily, sharing stories and inviting friends. Rewards are paid in USDT (BEP20)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is AdSelect an investment platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. AdSelect does not take deposits, does not sell investment products and does not promise fixed or guaranteed returns. Rewards depend only on the activities you complete and the rules shown in your dashboard."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is AdSelect free to join?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. There is no joining fee, no deposit, no subscription and nothing to buy, and the withdrawal fee is currently 0%. Rewards are funded by advertising revenue, so you never pay AdSelect to earn or to receive a payout. AdSelect never asks for payment through private message."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are rewards paid out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rewards are added to your AdSelect balance and withdrawn in USDT (BEP20) to a wallet you own and add yourself in the dashboard; AdSelect never controls your wallet and never asks for a seed phrase. Withdrawals run on scheduled payout windows, from a $10 minimum, and the current rules are always shown on the Cash out page before you confirm. A step-by-step Withdrawal Guide is available inside the dashboard."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is AdSelect for sale or shut down?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. AdSelect is actively operated at adselect.net. The domain is registered and renewed long-term under its operator; any 'for sale' listing elsewhere does not refer to the current AdSelect platform. Official channels are only adselect.net, support@adselect.net and @adselectsupportbot."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are payouts in USDT (BEP20)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AdSelect has members in many countries, so one payout method that works everywhere is simpler than dozens of local bank rails. USDT on the BEP20 network (BNB Smart Chain) has low network fees and settles quickly, and the payout goes to the member's own wallet. AdSelect never asks for any payment, 'network fee', unlock fee or deposit before a withdrawal; any such request is a scam."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does AdSelect make money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Advertisers pay AdSelect to place their campaigns in front of an engaged audience. Part of that advertising revenue funds the member reward pool; the rest covers operating costs. AdSelect does not hold member funds or earn from member payments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I contact AdSelect support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Email support@adselect.net or message the official Telegram support bot @adselectsupportbot. Members can also open a ticket from Dashboard → Support. Announcements are published on t.me/adselect."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What will AdSelect never ask for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AdSelect staff never message you first and never ask for your password, OTP code, bank card details or wallet seed phrase. Anyone who does is impersonating AdSelect."
+      }
+    }
+  ]
+}

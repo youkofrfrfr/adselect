@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://adselect.net/#organization",
+  "name": "AdSelect",
+  "alternateName": "AdSelect Community & Advertising Platform",
+  "url": "https://adselect.net",
+  "logo": "https://adselect.net/logo.png",
+  "image": "https://adselect.net/logo.png",
+  "foundingDate": "2026",
+  "description": "AdSelect is a community and advertising platform. Members earn rewards for viewing partner advertisements, daily check-ins, story sharing and referrals. Rewards are paid in USDT (BEP20).",
+  "sameAs": [
+    "https://t.me/adselect"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "email": "support@adselect.net",
+      "url": "https://t.me/adselectsupportbot",
+      "availableLanguage": [
+        "en",
+        "vi",
+        "ko",
+        "es",
+        "tl"
+      ],
+      "areaServed": "Worldwide"
+    }
+  ],
+  "knowsAbout": [
+    "online advertising",
+    "advertising rewards",
+    "referral programs",
+    "USDT BEP20 payouts"
+  ]
+}
